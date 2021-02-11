@@ -1,7 +1,7 @@
 var number = 10
 
-function add(){
-  return number +=1
+function add(a, b){
+  return a + b;
 }
 
 
